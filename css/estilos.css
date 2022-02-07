@@ -153,12 +153,7 @@ footer { font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     p{text-align: start;
         font-style: italic;
         font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-        font-size: 8px;
-        background-color: rgb(255, 252, 248);
-        border-top-width: 8px;
-        border-right-width: 8px;
-        border-bottom-width: 8px;
-        border-left-width: 8px;}
+        background-color: rgb(255, 252, 248);}
     
     /*Configuracion Carta y Metodos*/
     
